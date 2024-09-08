@@ -4,7 +4,7 @@ print("""wellcome to our project here is a list of all commands :
 1- add_students : to add student 
 2- remove student : to remove all data of student 
 3_ exit : to exit  
-
+4_ 
 """)
 
 while True :
@@ -20,4 +20,3 @@ while True :
         studentID = input("enter studentID : ")
         delete_student(studentID)
 
-print("testt")
