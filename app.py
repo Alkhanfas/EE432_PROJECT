@@ -6,6 +6,7 @@ print("""wellcome to our project here is a list of all commands :
 3_ exit : to exit  
 4_ 
 5_
+6_
 """)
 
 while True :
