@@ -20,4 +20,4 @@ while True :
         studentID = input("enter studentID : ")
         delete_student(studentID)
 
-print("test")
+print("testt")
