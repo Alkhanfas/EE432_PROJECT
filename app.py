@@ -1,10 +1,10 @@
-from usage import *
-
 print("""wellcome to our project here is a list of all commands :
 1- add_students : to add student 
 2- remove student : to remove all data of student 
 3_ exit : to exit  
-
+4_ 
+5_
+6_
 """)
 
 while True :
@@ -19,4 +19,3 @@ while True :
     elif comand == "remove student":
         studentID = input("enter studentID : ")
         delete_student(studentID)
-
