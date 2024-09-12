@@ -53,5 +53,5 @@ This project is a university management system specifically designed for the Dep
 2. **View Grades**: Displays the grades of a student for each enrolled course.
 
 ## Contributors
-[Mohammed Al-khanfas](https://t.me/MedooKn) <h6></h6> [Ahmed Swisi](https://t.me/Ahmed_swisi2318)  <h6></h6> [Hammam maroof](https://t.me/hummam29)  <h6></h6> [Abdulrahman Al-mazoughi](https://t.me/)
+[Mohammed Al-khanfas](https://t.me/MedooKn) <h6></h6> [Ahmed Swisi](https://t.me/Ahmed_swisi2318)  <h6></h6> [Hammam maroof](https://t.me/hummam29)  <h6></h6> [Abdulrahman Al-mazoughi](https://t.me/Abdu5308)
 
